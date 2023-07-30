@@ -4,4 +4,4 @@ My personal collection of recipes. They are written with [Cooklang](https://cook
 
 ## Breads
 
-- [Mini Naan](breads/mini-naan.md)
+- [Mini Naan](breads/mini-naan.cook)
